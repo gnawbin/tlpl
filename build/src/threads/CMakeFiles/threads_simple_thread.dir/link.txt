@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/threads_simple_thread.dir/simple_thread.c.o  -o threads_simple_thread -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libthreads_strerror.so -lpthread ../../libtlpl_lib.so 

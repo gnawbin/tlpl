@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/sysinfo_procfs_user_exe.dir/procfs_user_exe.c.o  -o sysinfo_procfs_user_exe -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build -lpthread ../../libtlpl_lib.so -lrt 

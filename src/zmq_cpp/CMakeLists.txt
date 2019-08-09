@@ -1,0 +1,13 @@
+file(GLOB users_groups_SOURCES *.cpp)
+#foreach(filename ${users_groups_SOURCES})
+
+ #   get_filename_component(name ${filename} NAME_WE)
+ #   add_executable(users_groups_${name} ${filename})
+ #   target_link_libraries(users_groups_${name} tlpl_lib pthread users_groups_ugid_functions crypt )
+#endforeach()
+add_executable(version version.cpp)
+target_link_libraries(version zmq)
+add_executable(wuserver wuserver.cpp)
+target_link_libraries(wuserver zmq)
+add_executable(wuclient wuclient.cpp)
+target_link_libraries(wuclient zmq)

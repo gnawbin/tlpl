@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/script.dir/script.c.o  -o script -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libpty_fork.so ../../libpty_master_open.so ../../libpty_master_open_bsd.so -lpthread ../../libtlpl_lib.so -lrt -lcrypt 

@@ -1,0 +1,6 @@
+file(GLOB svipc_SOURCES *.c)
+foreach(filename ${svipc_SOURCES})
+    get_filename_component(name ${filename} NAME_WE)
+    add_executable(svipc_${name}  ${filename})
+    target_link_libraries(svipc_${name} pthread tlpl_lib rt)
+endforeach ()

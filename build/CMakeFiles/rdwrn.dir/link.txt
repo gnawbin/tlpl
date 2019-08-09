@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,librdwrn.so -o librdwrn.so CMakeFiles/rdwrn.dir/src/sockets/rdwrn.c.o 

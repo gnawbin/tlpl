@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/time_show_time.dir/show_time.c.o  -o time_show_time -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread ../../libtime_curr_time.so 

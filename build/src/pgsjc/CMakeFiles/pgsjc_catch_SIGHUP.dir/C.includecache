@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/lib/error_functions.h
+
+../src/lib/get_num.h
+
+../src/lib/tlpi_hdr.h
+sys/types.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+errno.h
+-
+string.h
+-
+get_num.h
+../src/lib/get_num.h
+error_functions.h
+../src/lib/error_functions.h
+
+/media/wangbin/36005E93005E59C7/tlpl/src/pgsjc/catch_SIGHUP.c
+unistd.h
+-
+signal.h
+-
+tlpi_hdr.h
+/media/wangbin/36005E93005E59C7/tlpl/src/pgsjc/tlpi_hdr.h
+

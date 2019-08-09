@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/signals_t_sigsuspend.dir/t_sigsuspend.c.o  -o signals_t_sigsuspend -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libsignals_signal_functions.so ../../libsignals_signal.so ../../libsignals_siginterrupt.so -lpthread ../../libtlpl_lib.so -lrt -lcrypt 

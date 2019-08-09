@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libtime_curr_time.so -o libtime_curr_time.so CMakeFiles/time_curr_time.dir/src/time/lib/curr_time.c.o 

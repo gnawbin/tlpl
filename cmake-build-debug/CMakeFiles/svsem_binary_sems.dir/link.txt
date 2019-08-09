@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libsvsem_binary_sems.so -o libsvsem_binary_sems.so CMakeFiles/svsem_binary_sems.dir/src/svsem/lib/binary_sems.c.o 

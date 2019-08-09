@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libc_mdwrkapi.so -o libc_mdwrkapi.so CMakeFiles/c_mdwrkapi.dir/src/zeromq_c_version/lib/mdwrkapi.c.o 

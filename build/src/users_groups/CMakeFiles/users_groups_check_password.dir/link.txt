@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/users_groups_check_password.dir/check_password.c.o  -o users_groups_check_password -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread ../../libusers_groups_ugid_functions.so -lcrypt 

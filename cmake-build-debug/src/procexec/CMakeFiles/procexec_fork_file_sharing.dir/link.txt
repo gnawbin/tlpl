@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/procexec_fork_file_sharing.dir/fork_file_sharing.c.o  -o procexec_fork_file_sharing -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread ../../libprocexec_print_wait_status.so ../../libprocexec_system.so ../../libprocexec_execlp.so 

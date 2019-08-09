@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/proc_necho.dir/necho.c.o  -o proc_necho -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread -lrt 

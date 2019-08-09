@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libtty_tty_functions.so -o libtty_tty_functions.so CMakeFiles/tty_tty_functions.dir/src/tty/lib/tty_functions.c.o 

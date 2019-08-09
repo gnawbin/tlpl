@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/timers_demo_SIGFPE.dir/demo_SIGFPE.c.o  -o timers_demo_SIGFPE -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtimers_itimerspec_from_str.so -lpthread ../../libtlpl_lib.so -lrt 

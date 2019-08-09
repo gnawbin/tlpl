@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/pipes_pmsg_receive.dir/pmsg_receive.c.o  -o pipes_pmsg_receive -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread -lrt 

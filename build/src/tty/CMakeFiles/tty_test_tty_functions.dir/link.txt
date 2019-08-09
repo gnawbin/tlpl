@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/tty_test_tty_functions.dir/test_tty_functions.c.o  -o tty_test_tty_functions -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread ../../libtty_tty_functions.so ../../libtty_ttyname.so 

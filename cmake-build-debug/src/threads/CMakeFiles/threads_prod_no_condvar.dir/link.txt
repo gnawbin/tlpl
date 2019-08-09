@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/threads_prod_no_condvar.dir/prod_no_condvar.c.o  -o threads_prod_no_condvar -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libthreads_strerror.so -lpthread ../../libtlpl_lib.so 

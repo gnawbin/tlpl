@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/id_echo_sv.dir/id_echo_sv.c.o  -o id_echo_sv -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so ../../libinet_sockets.so ../../librdwrn.so ../../libunix_sockets.so ../../libread_line_buf.so ../../libread_line.so ../../libsendfile.so 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/filebuff_mix23io.dir/mix23io.c.o  -o filebuff_mix23io -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread 

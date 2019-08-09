@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/svsem_svmsg_chqbytes.dir/svmsg_chqbytes.c.o  -o svsem_svmsg_chqbytes -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug -lpthread ../../libtlpl_lib.so -lrt 

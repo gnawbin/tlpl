@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/procexec_multi_wait.dir/multi_wait.c.o  -o procexec_multi_wait -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread ../../libprocexec_print_wait_status.so ../../libprocexec_system.so ../../libprocexec_execlp.so 

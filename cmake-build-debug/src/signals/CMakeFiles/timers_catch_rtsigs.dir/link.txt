@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/timers_catch_rtsigs.dir/catch_rtsigs.c.o  -o timers_catch_rtsigs -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtimers_itimerspec_from_str.so -lpthread ../../libtlpl_lib.so -lrt 

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libpty_signal_functions.so -o libpty_signal_functions.so CMakeFiles/pty_signal_functions.dir/src/signals/lib/signal_functions.c.o 

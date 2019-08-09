@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/timers_ptmr_null_evp.dir/ptmr_null_evp.c.o  -o timers_ptmr_null_evp -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtimers_itimerspec_from_str.so -lpthread ../../libtlpl_lib.so -lrt 

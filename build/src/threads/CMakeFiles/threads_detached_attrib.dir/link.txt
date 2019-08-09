@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/threads_detached_attrib.dir/detached_attrib.c.o  -o threads_detached_attrib -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libthreads_strerror.so -lpthread ../../libtlpl_lib.so 

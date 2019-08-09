@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libtimers_itimerspec_from_str.so -o libtimers_itimerspec_from_str.so CMakeFiles/timers_itimerspec_from_str.dir/src/timers/lib/itimerspec_from_str.c.o 

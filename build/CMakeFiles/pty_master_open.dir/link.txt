@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libpty_master_open.so -o libpty_master_open.so CMakeFiles/pty_master_open.dir/src/pty/lib/pty_master_open.c.o 

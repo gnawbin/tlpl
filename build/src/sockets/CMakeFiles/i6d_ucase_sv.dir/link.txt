@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/i6d_ucase_sv.dir/i6d_ucase_sv.c.o  -o i6d_ucase_sv -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so ../../libinet_sockets.so ../../librdwrn.so ../../libunix_sockets.so ../../libread_line_buf.so ../../libread_line.so ../../libsendfile.so 

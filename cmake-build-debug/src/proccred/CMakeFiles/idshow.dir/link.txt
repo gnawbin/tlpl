@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/idshow.dir/idshow.c.o  -o idshow -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread 

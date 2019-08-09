@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/threads_one_time_init.dir/one_time_init.c.o  -o threads_one_time_init -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libthreads_strerror.so -lpthread ../../libtlpl_lib.so 

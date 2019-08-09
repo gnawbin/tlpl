@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libclone.so -o libclone.so CMakeFiles/clone.dir/src/zeromq_c_version/lib/clone.c.o 

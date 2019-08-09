@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/is_seqnum_cl.dir/is_seqnum_cl.c.o  -o is_seqnum_cl -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so ../../libinet_sockets.so ../../librdwrn.so ../../libunix_sockets.so ../../libread_line_buf.so ../../libread_line.so ../../libsendfile.so 

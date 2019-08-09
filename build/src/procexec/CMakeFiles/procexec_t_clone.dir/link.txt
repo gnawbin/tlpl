@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/procexec_t_clone.dir/t_clone.c.o  -o procexec_t_clone -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread ../../libprocexec_print_wait_status.so ../../libprocexec_system.so ../../libprocexec_execlp.so 

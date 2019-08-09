@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/signals_pty_master_open_bsd.dir/pty_master_open_bsd.c.o  -o signals_pty_master_open_bsd -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libsignals_signal_functions.so ../../libsignals_signal.so ../../libsignals_siginterrupt.so -lpthread ../../libtlpl_lib.so -lrt -lcrypt 

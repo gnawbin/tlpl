@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libinet_sockets.so -o libinet_sockets.so CMakeFiles/inet_sockets.dir/src/sockets/inet_sockets.c.o 

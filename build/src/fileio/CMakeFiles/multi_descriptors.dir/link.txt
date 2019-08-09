@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/multi_descriptors.dir/multi_descriptors.c.o  -o multi_descriptors -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread 

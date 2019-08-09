@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/poll_pipes.dir/poll_pipes.c.o  -o poll_pipes -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread 

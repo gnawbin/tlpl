@@ -1,0 +1,6 @@
+file(GLOB dirs_links_SOURCES *.c)
+foreach(filename ${dirs_links_SOURCES})
+    get_filename_component(name ${filename} NAME_WE)
+    add_executable(${name} ${filename})
+    target_link_libraries(${name} tlpl_lib pthread  )
+endforeach()

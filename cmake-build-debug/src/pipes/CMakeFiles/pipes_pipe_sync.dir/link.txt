@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/pipes_pipe_sync.dir/pipe_sync.c.o  -o pipes_pipe_sync -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread 

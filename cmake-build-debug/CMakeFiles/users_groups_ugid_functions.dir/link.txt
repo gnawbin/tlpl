@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libusers_groups_ugid_functions.so -o libusers_groups_ugid_functions.so CMakeFiles/users_groups_ugid_functions.dir/src/users_groups/lib/ugid_functions.c.o 

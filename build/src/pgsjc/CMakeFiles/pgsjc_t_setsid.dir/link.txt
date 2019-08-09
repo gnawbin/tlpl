@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/pgsjc_t_setsid.dir/t_setsid.c.o  -o pgsjc_t_setsid -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread 

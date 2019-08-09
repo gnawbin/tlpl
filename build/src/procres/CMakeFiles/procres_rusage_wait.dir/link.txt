@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/procres_rusage_wait.dir/rusage_wait.c.o  -o procres_rusage_wait -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread 

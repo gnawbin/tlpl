@@ -1,0 +1,6 @@
+file(GLOB procres_SOURCES *.c)
+foreach(filename ${procres_SOURCES})
+    get_filename_component(name ${filename} NAME_WE)
+    add_executable(procres_${name} ${filename})
+    target_link_libraries(procres_${name} tlpl_lib pthread )
+endforeach()

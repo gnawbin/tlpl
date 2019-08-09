@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/large_file.dir/large_file.c.o  -o large_file -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread 

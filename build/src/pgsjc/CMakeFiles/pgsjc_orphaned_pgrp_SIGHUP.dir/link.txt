@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/pgsjc_orphaned_pgrp_SIGHUP.dir/orphaned_pgrp_SIGHUP.c.o  -o pgsjc_orphaned_pgrp_SIGHUP -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread 

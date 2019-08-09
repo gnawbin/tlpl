@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/bad_exclusive_open.dir/bad_exclusive_open.c.o  -o bad_exclusive_open -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread 

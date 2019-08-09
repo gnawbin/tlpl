@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/t_stat.dir/t_stat.c.o  -o t_stat -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread ../../libfile_perms.so 

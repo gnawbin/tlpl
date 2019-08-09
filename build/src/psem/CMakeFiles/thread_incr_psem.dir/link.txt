@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/thread_incr_psem.dir/thread_incr_psem.c.o  -o thread_incr_psem -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build -lpthread ../../libtlpl_lib.so -lrt -lcrypt 

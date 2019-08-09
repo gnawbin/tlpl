@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/svshm_svshm_lock.dir/svshm_lock.c.o  -o svshm_svshm_lock -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build -lpthread ../../libtlpl_lib.so -lrt 

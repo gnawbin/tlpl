@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/acl_update.dir/acl_update.c.o  -o acl_update -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread -lacl 

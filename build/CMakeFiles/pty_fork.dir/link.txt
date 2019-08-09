@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libpty_fork.so -o libpty_fork.so CMakeFiles/pty_fork.dir/src/pty/lib/pty_fork.c.o 

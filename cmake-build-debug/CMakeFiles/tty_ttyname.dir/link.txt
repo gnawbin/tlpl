@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libtty_ttyname.so -o libtty_ttyname.so CMakeFiles/tty_ttyname.dir/src/tty/lib/ttyname.c.o 

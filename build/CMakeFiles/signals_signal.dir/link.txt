@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libsignals_signal.so -o libsignals_signal.so CMakeFiles/signals_signal.dir/src/signals/lib/signal.c.o 

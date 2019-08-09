@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -pthread -g   CMakeFiles/wuserver.dir/wuserver.cpp.o  -o wuserver -lzmq 

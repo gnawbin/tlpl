@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/psem_post.dir/psem_post.c.o  -o psem_post -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build -lpthread ../../libtlpl_lib.so -lrt -lcrypt 

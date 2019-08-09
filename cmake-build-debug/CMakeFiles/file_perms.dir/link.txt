@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libfile_perms.so -o libfile_perms.so CMakeFiles/file_perms.dir/src/files/lib/file_perms.c.o 

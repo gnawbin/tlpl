@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -pthread -g   CMakeFiles/users_groups_asyncsrv.dir/asyncsrv.cpp.o  -o users_groups_asyncsrv -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread ../../libusers_groups_ugid_functions.so -lcrypt 

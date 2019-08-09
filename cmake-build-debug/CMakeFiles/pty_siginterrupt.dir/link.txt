@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libpty_siginterrupt.so -o libpty_siginterrupt.so CMakeFiles/pty_siginterrupt.dir/src/signals/lib/siginterrupt.c.o 

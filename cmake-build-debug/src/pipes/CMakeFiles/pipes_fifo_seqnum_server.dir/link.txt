@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/pipes_fifo_seqnum_server.dir/fifo_seqnum_server.c.o  -o pipes_fifo_seqnum_server -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread 

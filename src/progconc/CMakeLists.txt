@@ -1,0 +1,6 @@
+file(GLOB progconc_SOURCES *.c)
+foreach(filename ${progconc_SOURCES})
+    get_filename_component(name ${filename} NAME_WE)
+    add_executable(progconc_${name} ${filename})
+    target_link_libraries(progconc_${name} tlpl_lib pthread )
+endforeach()

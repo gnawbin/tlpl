@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libsvsem_event_flags.so -o libsvsem_event_flags.so CMakeFiles/svsem_event_flags.dir/src/svsem/lib/event_flags.c.o 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/procres_rusage.dir/rusage.c.o  -o procres_rusage -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread 

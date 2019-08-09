@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/tty_no_echo.dir/no_echo.c.o  -o tty_no_echo -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread ../../libtty_tty_functions.so ../../libtty_ttyname.so 

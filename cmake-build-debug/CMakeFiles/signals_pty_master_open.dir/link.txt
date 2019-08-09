@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libsignals_pty_master_open.so -o libsignals_pty_master_open.so CMakeFiles/signals_pty_master_open.dir/src/pty/lib/pty_master_open.c.o 

@@ -1,0 +1,7 @@
+file(GLOB time_SOURCES *.c)
+foreach(filename ${time_SOURCES})
+    MESSAGE(STATUS "name=${filename}")
+    get_filename_component(name ${filename} NAME_WE)
+    add_executable(time_${name} ${filename})
+    target_link_libraries(time_${name} tlpl_lib pthread time_curr_time )
+endforeach()

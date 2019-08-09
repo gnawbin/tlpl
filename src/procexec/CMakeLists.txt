@@ -1,0 +1,6 @@
+file(GLOB procexec_SOURCES *.c)
+foreach(filename ${procexec_SOURCES})
+    get_filename_component(name ${filename} NAME_WE)
+    add_executable(procexec_${name} ${filename})
+    target_link_libraries(procexec_${name} tlpl_lib pthread procexec_print_wait_status procexec_system procexec_execlp)
+endforeach()

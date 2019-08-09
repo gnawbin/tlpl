@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/t_getservbyname.dir/t_getservbyname.c.o  -o t_getservbyname -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so ../../libinet_sockets.so ../../librdwrn.so ../../libunix_sockets.so ../../libread_line_buf.so ../../libread_line.so ../../libsendfile.so 

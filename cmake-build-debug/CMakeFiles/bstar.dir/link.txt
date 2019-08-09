@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libbstar.so -o libbstar.so CMakeFiles/bstar.dir/src/zmq_c/lib/bstar.c.o 

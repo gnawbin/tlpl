@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libthreads_strerror_tsd.so -o libthreads_strerror_tsd.so CMakeFiles/threads_strerror_tsd.dir/src/threads/lib/strerror_tsd.c.o 

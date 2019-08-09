@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libsignals_siginterrupt.so -o libsignals_siginterrupt.so CMakeFiles/signals_siginterrupt.dir/src/signals/lib/siginterrupt.c.o 

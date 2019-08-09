@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/xattr_t_setxattr.dir/t_setxattr.c.o  -o xattr_t_setxattr -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread 

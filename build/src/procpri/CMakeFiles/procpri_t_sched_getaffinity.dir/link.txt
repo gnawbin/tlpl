@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/procpri_t_sched_getaffinity.dir/t_sched_getaffinity.c.o  -o procpri_t_sched_getaffinity -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread 

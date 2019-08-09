@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libc_bstar.so -o libc_bstar.so CMakeFiles/c_bstar.dir/src/zeromq_c_version/lib/bstar.c.o 

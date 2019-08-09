@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libflcliapi.so -o libflcliapi.so CMakeFiles/flcliapi.dir/src/zeromq_c_version/lib/flcliapi.c.o 

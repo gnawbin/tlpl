@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/svmsg_svmsg_ls.dir/svmsg_ls.c.o  -o svmsg_svmsg_ls -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build -lpthread ../../libtlpl_lib.so -lrt 

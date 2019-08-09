@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/procpri_sched_set.dir/sched_set.c.o  -o procpri_sched_set -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread 

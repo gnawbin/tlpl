@@ -1,0 +1,2090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="tlpl" targetName="is_echo_inetd_sv" />
+      <config projectName="tlpl" targetName="read_line_buf" />
+      <config projectName="tlpl" targetName="procexec_t_vfork" />
+      <config projectName="tlpl" targetName="nftw_dir_tree" />
+      <config projectName="tlpl" targetName="filesys_t_mount" />
+      <config projectName="tlpl" targetName="pipes_pipe_ls_wc" />
+      <config projectName="tlpl" targetName="svsem_svsem_demo" />
+      <config projectName="tlpl" targetName="pipes_pmsg_unlink" />
+      <config projectName="tlpl" targetName="svshm_svshm_rm" />
+      <config projectName="tlpl" targetName="pipes_pmsg_getattr" />
+      <config projectName="tlpl" targetName="view_symlink" />
+      <config projectName="tlpl" targetName="procexec_t_execlp" />
+      <config projectName="tlpl" targetName="ud_ucase_cl" />
+      <config projectName="tlpl" targetName="svmsg_svmsg_file_server" />
+      <config projectName="tlpl" targetName="signals_nonreentrant" />
+      <config projectName="tlpl" targetName="svsem_svsem_create" />
+      <config projectName="tlpl" targetName="rdwrn" />
+      <config projectName="tlpl" targetName="acl_view" />
+      <config projectName="tlpl" targetName="procexec_t_execle" />
+      <config projectName="tlpl" targetName="filebuff_mix23io" />
+      <config projectName="tlpl" targetName="procres_rusage_wait" />
+      <config projectName="tlpl" targetName="procpri_t_sched_setaffinity" />
+      <config projectName="tlpl" targetName="pgsjc_orphaned_pgrp_SIGHUP" />
+      <config projectName="tlpl" targetName="pipes_pipe_sync" />
+      <config projectName="tlpl" targetName="proc_mem_segments" />
+      <config projectName="tlpl" targetName="timers_ptmr_sigev_thread" />
+      <config projectName="tlpl" targetName="filesys_t_statvfs" />
+      <config projectName="tlpl" targetName="signals_ignore_pending_sig" />
+      <config projectName="tlpl" targetName="demo_sigio" />
+      <config projectName="tlpl" targetName="proc_bad_longjmp" />
+      <config projectName="tlpl" targetName="signals_t_kill" />
+      <config projectName="tlpl" targetName="dnotify" />
+      <config projectName="tlpl" targetName="procexec_child_status" />
+      <config projectName="tlpl" targetName="timers_real_timer" />
+      <config projectName="tlpl" targetName="signals_intquit" />
+      <config projectName="tlpl" targetName="psem_post" />
+      <config projectName="tlpl" targetName="pipes_mq_notify_sig" />
+      <config projectName="tlpl" targetName="threads_prod_condvar" />
+      <config projectName="tlpl" targetName="is_seqnum_v2_sv" />
+      <config projectName="tlpl" targetName="svshm_svshm_unlock" />
+      <config projectName="tlpl" targetName="svmsg_svmsg_info" />
+      <config projectName="tlpl" targetName="svsem_svsem_op" />
+      <config projectName="tlpl" targetName="svsem_svsem_info" />
+      <config projectName="tlpl" targetName="vmem_t_mprotect" />
+      <config projectName="tlpl" targetName="timers_timed_read" />
+      <config projectName="tlpl" targetName="procpri_sched_set" />
+      <config projectName="tlpl" targetName="pipes_pmsg_send" />
+      <config projectName="tlpl" targetName="atomic_append" />
+      <config projectName="tlpl" targetName="svmsg_svmsg_file_client" />
+      <config projectName="tlpl" targetName="sysinfo_t_uname" />
+      <config projectName="tlpl" targetName="procres_rlimit_nproc" />
+      <config projectName="tlpl" targetName="procexec_fork_file_sharing" />
+      <config projectName="tlpl" targetName="procexec_fork_sig_sync" />
+      <config projectName="tlpl" targetName="psem_trywait" />
+      <config projectName="tlpl" targetName="time_show_time" />
+      <config projectName="tlpl" targetName="procexec_system" />
+      <config projectName="tlpl" targetName="mmcat" />
+      <config projectName="tlpl" targetName="tty_new_intr" />
+      <config projectName="tlpl" targetName="filebuff_direct_read" />
+      <config projectName="tlpl" targetName="svmsg_svmsg_create" />
+      <config projectName="tlpl" targetName="anon_mmap" />
+      <config projectName="tlpl" targetName="signals_signalfd_sigval" />
+      <config projectName="tlpl" targetName="seek_io" />
+      <config projectName="tlpl" targetName="dump_utmpx" />
+      <config projectName="tlpl" targetName="self_pipe" />
+      <config projectName="tlpl" targetName="filesys_t_umount" />
+      <config projectName="tlpl" targetName="svmsg_svmsg_rm" />
+      <config projectName="tlpl" targetName="filesys_t_statfs" />
+      <config projectName="tlpl" targetName="pipes_popen_glob" />
+      <config projectName="tlpl" targetName="procexec_t_clone" />
+      <config projectName="tlpl" targetName="pshm_write" />
+      <config projectName="tlpl" targetName="psem_unlink" />
+      <config projectName="tlpl" targetName="procexec_footprint" />
+      <config projectName="tlpl" targetName="t_umask" />
+      <config projectName="tlpl" targetName="t_truncate" />
+      <config projectName="tlpl" targetName="t_remap_file_pages" />
+      <config projectName="tlpl" targetName="thread_incr_psem" />
+      <config projectName="tlpl" targetName="ud_ucase_sv" />
+      <config projectName="tlpl" targetName="pgsjc_job_mon" />
+      <config projectName="tlpl" targetName="signals_sig_speed_sigsuspend" />
+      <config projectName="tlpl" targetName="proc_setjmp_vars" />
+      <config projectName="tlpl" targetName="svshm_svshm_attach" />
+      <config projectName="tlpl" targetName="signals_t_sigwaitinfo" />
+      <config projectName="tlpl" targetName="timers_t_nanosleep" />
+      <config projectName="tlpl" targetName="acl_update" />
+      <config projectName="tlpl" targetName="threads_strerror" />
+      <config projectName="tlpl" targetName="svipc_svmsg_demo_server" />
+      <config projectName="tlpl" targetName="procexec_acct_view" />
+      <config projectName="tlpl" targetName="tty_test_tty_functions" />
+      <config projectName="tlpl" targetName="threads_thread_incr" />
+      <config projectName="tlpl" targetName="unbuffer" />
+      <config projectName="tlpl" targetName="threads_strerror_tsd" />
+      <config projectName="tlpl" targetName="pipes_pmsg_receive" />
+      <config projectName="tlpl" targetName="xattr_xattr_view" />
+      <config projectName="tlpl" targetName="procexec_t_execl" />
+      <config projectName="tlpl" targetName="t_gethostbyname" />
+      <config projectName="tlpl" targetName="proc_display_env" />
+      <config projectName="tlpl" targetName="idshow" />
+      <config projectName="tlpl" targetName="procexec_make_zombie" />
+      <config projectName="tlpl" targetName="timers_itimerspec_from_str" />
+      <config projectName="tlpl" targetName="i6d_ucase_cl" />
+      <config projectName="tlpl" targetName="signals_t_sigaltstack" />
+      <config projectName="tlpl" targetName="threads_thread_multijoin" />
+      <config projectName="tlpl" targetName="procexec_t_fork" />
+      <config projectName="tlpl" targetName="pshm_read" />
+      <config projectName="tlpl" targetName="procpri_demo_sched_fifo" />
+      <config projectName="tlpl" targetName="procpri_sched_view" />
+      <config projectName="tlpl" targetName="tty_ttyname" />
+      <config projectName="tlpl" targetName="psem_wait" />
+      <config projectName="tlpl" targetName="id_echo_cl" />
+      <config projectName="tlpl" targetName="mmcopy" />
+      <config projectName="tlpl" targetName="sysinfo_procfs_pidmax" />
+      <config projectName="tlpl" targetName="view_lastlog" />
+      <config projectName="tlpl" targetName="version" />
+      <config projectName="tlpl" targetName="select_mq" />
+      <config projectName="tlpl" targetName="t_select" />
+      <config projectName="tlpl" targetName="main" />
+      <config projectName="tlpl" targetName="us_xfr_v2_cl" />
+      <config projectName="tlpl" targetName="read_line" />
+      <config projectName="tlpl" targetName="pipes_mq_notify_sigwaitinfo" />
+      <config projectName="tlpl" targetName="pipes_fifo_seqnum_server" />
+      <config projectName="tlpl" targetName="time_process_time" />
+      <config projectName="tlpl" targetName="scm_cred_recv" />
+      <config projectName="tlpl" targetName="is_echo_v2_sv" />
+      <config projectName="tlpl" targetName="procexec_necho" />
+      <config projectName="tlpl" targetName="wuserver" />
+      <config projectName="tlpl" targetName="pshm_create" />
+      <config projectName="tlpl" targetName="tty_tty_functions" />
+      <config projectName="tlpl" targetName="scm_rights_recv" />
+      <config projectName="tlpl" targetName="procexec_acct_v3_view" />
+      <config projectName="tlpl" targetName="sendfile" />
+      <config projectName="tlpl" targetName="chiflag" />
+      <config projectName="tlpl" targetName="threads_detached_attrib" />
+      <config projectName="tlpl" targetName="bad_symlink" />
+      <config projectName="tlpl" targetName="timers_ptmr_sigev_signal" />
+      <config projectName="tlpl" targetName="signals_sig_receiver" />
+      <config projectName="tlpl" targetName="signals_ouch" />
+      <config projectName="tlpl" targetName="t_getservbyname" />
+      <config projectName="tlpl" targetName="pty_fork" />
+      <config projectName="tlpl" targetName="svmsg_svmsg_ls" />
+      <config projectName="tlpl" targetName="psem_getvalue" />
+      <config projectName="tlpl" targetName="pipes_change_case" />
+      <config projectName="tlpl" targetName="file_type_stats" />
+      <config projectName="tlpl" targetName="procexec_fork_whos_on_first" />
+      <config projectName="tlpl" targetName="procexec_t_system" />
+      <config projectName="tlpl" targetName="t_chown" />
+      <config projectName="tlpl" targetName="procres_rusage" />
+      <config projectName="tlpl" targetName="proc_necho" />
+      <config projectName="tlpl" targetName="large_file" />
+      <config projectName="tlpl" targetName="svsem_svsem_bad_init" />
+      <config projectName="tlpl" targetName="t_mmap" />
+      <config projectName="tlpl" targetName="daemon_SIGHUP" />
+      <config projectName="tlpl" targetName="pty_master_open" />
+      <config projectName="tlpl" targetName="procexec_demo_clone" />
+      <config projectName="tlpl" targetName="us_xfr_v2_sv" />
+      <config projectName="tlpl" targetName="vmem_memlock" />
+      <config projectName="tlpl" targetName="svipc_t_ftok" />
+      <config projectName="tlpl" targetName="pgsjc_disc_SIGHUP" />
+      <config projectName="tlpl" targetName="poll_pipes" />
+      <config projectName="tlpl" targetName="filebuff_copy" />
+      <config projectName="tlpl" targetName="signals_signal_functions" />
+      <config projectName="tlpl" targetName="pipes_fifo_seqnum_client" />
+      <config projectName="tlpl" targetName="procexec_t_execve" />
+      <config projectName="tlpl" targetName="procexec_simple_system" />
+      <config projectName="tlpl" targetName="svshm_svshm_mon" />
+      <config projectName="tlpl" targetName="socknames" />
+      <config projectName="tlpl" targetName="proc_setenv" />
+      <config projectName="tlpl" targetName="xattr_t_setxattr" />
+      <config projectName="tlpl" targetName="signals_catch_rtsigs" />
+      <config projectName="tlpl" targetName="sysinfo_procfs_user_exe" />
+      <config projectName="tlpl" targetName="check_password_caps" />
+      <config projectName="tlpl" targetName="wuclient" />
+      <config projectName="tlpl" targetName="become_daemon" />
+      <config projectName="tlpl" targetName="procexec_acct_on" />
+      <config projectName="tlpl" targetName="procexec_fork_stdio_buf" />
+      <config projectName="tlpl" targetName="threads_strerror_test" />
+      <config projectName="tlpl" targetName="i6d_ucase_sv" />
+      <config projectName="tlpl" targetName="syslim_t_fpathconf" />
+      <config projectName="tlpl" targetName="svsem_svsem_rm" />
+      <config projectName="tlpl" targetName="us_abstract_bind" />
+      <config projectName="tlpl" targetName="procexec_multi_wait" />
+      <config projectName="tlpl" targetName="proc_modify_env" />
+      <config projectName="tlpl" targetName="threads_strerror_tls" />
+      <config projectName="tlpl" targetName="svshm_svshm_lock" />
+      <config projectName="tlpl" targetName="procpri_t_setpriority" />
+      <config projectName="tlpl" targetName="time_curr_time" />
+      <config projectName="tlpl" targetName="id_echo_sv" />
+      <config projectName="tlpl" targetName="is_echo_cl" />
+      <config projectName="tlpl" targetName="syslim_t_sysconf" />
+      <config projectName="tlpl" targetName="is_seqnum_cl" />
+      <config projectName="tlpl" targetName="tty_demo_SIGWINCH" />
+      <config projectName="tlpl" targetName="signals_signal" />
+      <config projectName="tlpl" targetName="demo_inotify" />
+      <config projectName="tlpl" targetName="users_groups_ugid_functions" />
+      <config projectName="tlpl" targetName="t_utime" />
+      <config projectName="tlpl" targetName="t_stat" />
+      <config projectName="tlpl" targetName="procexec_exit_handlers" />
+      <config projectName="tlpl" targetName="scm_cred_send" />
+      <config projectName="tlpl" targetName="procexec_multi_SIGCHLD" />
+      <config projectName="tlpl" targetName="procpri_t_sched_getaffinity" />
+      <config projectName="tlpl" targetName="pshm_unlink" />
+      <config projectName="tlpl" targetName="t_dirbasename" />
+      <config projectName="tlpl" targetName="filebuff_write_bytes" />
+      <config projectName="tlpl" targetName="svshm_svshm_info" />
+      <config projectName="tlpl" targetName="signals_t_sigqueue" />
+      <config projectName="tlpl" targetName="t_syslog" />
+      <config projectName="tlpl" targetName="scm_rights_send" />
+      <config projectName="tlpl" targetName="filebuff_mix23_linebuff" />
+      <config projectName="tlpl" targetName="pgsjc_handling_SIGTSTP" />
+      <config projectName="tlpl" targetName="tty_no_echo" />
+      <config projectName="tlpl" targetName="svshm_svshm_xfr_writer" />
+      <config projectName="tlpl" targetName="copy" />
+      <config projectName="tlpl" targetName="file_perms" />
+      <config projectName="tlpl" targetName="proc_t_getenv" />
+      <config projectName="tlpl" targetName="svmsg_svmsg_receive" />
+      <config projectName="tlpl" targetName="svmsg_svmsg_send" />
+      <config projectName="tlpl" targetName="svsem_binary_sems" />
+      <config projectName="tlpl" targetName="us_xfr_cl" />
+      <config projectName="tlpl" targetName="svsem_event_flags" />
+      <config projectName="tlpl" targetName="pgsjc_t_setsid" />
+      <config projectName="tlpl" targetName="svshm_svshm_create" />
+      <config projectName="tlpl" targetName="signals_siginterrupt" />
+      <config projectName="tlpl" targetName="t_readv" />
+      <config projectName="tlpl" targetName="pgsjc_catch_SIGHUP" />
+      <config projectName="tlpl" targetName="t_getopt" />
+      <config projectName="tlpl" targetName="procexec_print_wait_status" />
+      <config projectName="tlpl" targetName="proc_longjmp" />
+      <config projectName="tlpl" targetName="procexec_envargs" />
+      <config projectName="tlpl" targetName="svmsg_svmsg_chqbytes" />
+      <config projectName="tlpl" targetName="t_utimes" />
+      <config projectName="tlpl" targetName="threads_thread_incr_mutex" />
+      <config projectName="tlpl" targetName="time_strtime" />
+      <config projectName="tlpl" targetName="threads_simple_thread" />
+      <config projectName="tlpl" targetName="threads_one_time_init" />
+      <config projectName="tlpl" targetName="script" />
+      <config projectName="tlpl" targetName="psem_timedwait" />
+      <config projectName="tlpl" targetName="tlpl_lib" />
+      <config projectName="tlpl" targetName="list_files" />
+      <config projectName="tlpl" targetName="pipes_pmsg_create" />
+      <config projectName="tlpl" targetName="us_xfr_sv" />
+      <config projectName="tlpl" targetName="pipes_mq_notify_thread" />
+      <config projectName="tlpl" targetName="signals_demo_SIGFPE" />
+      <config projectName="tlpl" targetName="signals_t_sigsuspend" />
+      <config projectName="tlpl" targetName="is_echo_sv" />
+      <config projectName="tlpl" targetName="time_t_stime" />
+      <config projectName="tlpl" targetName="free_and_sbrk" />
+      <config projectName="tlpl" targetName="is_seqnum_v2_cl" />
+      <config projectName="tlpl" targetName="unix_sockets" />
+      <config projectName="tlpl" targetName="procexec_vfork_fd_test" />
+      <config projectName="tlpl" targetName="svsem_svsem_good_init" />
+      <config projectName="tlpl" targetName="list_files_readdir_r" />
+      <config projectName="tlpl" targetName="is_seqnum_sv" />
+      <config projectName="tlpl" targetName="psem_create" />
+      <config projectName="tlpl" targetName="pty_master_open_bsd" />
+      <config projectName="tlpl" targetName="threads_prod_no_condvar" />
+      <config projectName="tlpl" targetName="progconc_syscall_speed" />
+      <config projectName="tlpl" targetName="svshm_svshm_xfr_reader" />
+      <config projectName="tlpl" targetName="procexec_closeonexec" />
+      <config projectName="tlpl" targetName="signals_sigmask_longjmp" />
+      <config projectName="tlpl" targetName="timers_t_clock_nanosleep" />
+      <config projectName="tlpl" targetName="utmpx_login" />
+      <config projectName="tlpl" targetName="test_become_daemon" />
+      <config projectName="tlpl" targetName="procexec_execlp" />
+      <config projectName="tlpl" targetName="threads_thread_cleanup" />
+      <config projectName="tlpl" targetName="multi_descriptors" />
+      <config projectName="tlpl" targetName="inet_sockets" />
+      <config projectName="tlpl" targetName="procexec_orphan" />
+      <config projectName="tlpl" targetName="timers_ptmr_null_evp" />
+      <config projectName="tlpl" targetName="bad_exclusive_open" />
+      <config projectName="tlpl" targetName="pipes_simple_pipe" />
+      <config projectName="tlpl" targetName="timers_demo_timerfd" />
+      <config projectName="tlpl" targetName="svsem_svsem_mon" />
+      <config projectName="tlpl" targetName="signals_sig_sender" />
+      <config projectName="tlpl" targetName="t_unlink" />
+      <config projectName="tlpl" targetName="threads_thread_cancel" />
+      <config projectName="tlpl" targetName="epoll_input" />
+      <config projectName="tlpl" targetName="svsem_svsem_setall" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6cd08547-8a8f-4b1b-a7fc-fc92fe7e6a8d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="tlpl" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/redis_client/example_qt.cpp" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-users_groups_mdclient" />
+  </component>
+  <component name="ProjectId" id="1Orye5F0BBzU1GapFvoPHEmHsX0" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../821135e8-8cf9-4713-b217-b4c0c9df87952/Concurrent-Traffic-Simulation" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myShowDebugConsoleByDefault" value="true" />
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/zmq_c/lib" />
+      <recent name="$PROJECT_DIR$/src/pty/lib" />
+      <recent name="$PROJECT_DIR$/src/signals/lib" />
+      <recent name="$PROJECT_DIR$/src/threads/lib" />
+      <recent name="$PROJECT_DIR$/src/tty/lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/zmq_cpp" />
+      <recent name="$PROJECT_DIR$/src/zmq_c/lib" />
+      <recent name="$PROJECT_DIR$/src/zeromq_c" />
+      <recent name="$PROJECT_DIR$/src/zeromq_c_version/lib" />
+      <recent name="$PROJECT_DIR$/src/zeromq_c_version" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.atomic_append">
+    <configuration name="acl_update" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="acl_update" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="acl_update">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="acl_view" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="acl_view" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="acl_view">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="anon_mmap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="anon_mmap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="anon_mmap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atomic_append" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="atomic_append" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="atomic_append">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bad_exclusive_open" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="bad_exclusive_open" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="bad_exclusive_open">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bad_symlink" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="bad_symlink" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="bad_symlink">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="become_daemon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="become_daemon" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check_password_caps" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="check_password_caps" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="check_password_caps">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chiflag" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="chiflag" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="chiflag">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="copy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="copy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="copy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="daemon_SIGHUP" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="daemon_SIGHUP" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="daemon_SIGHUP">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo_inotify" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="demo_inotify" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="demo_inotify">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo_sigio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="demo_sigio" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="demo_sigio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dnotify" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="dnotify" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="dnotify">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dump_utmpx" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="dump_utmpx" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="dump_utmpx">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="epoll_input" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="epoll_input" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="epoll_input">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="file_perms" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="file_perms" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="file_type_stats" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="file_type_stats" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="file_type_stats">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filebuff_copy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="filebuff_copy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="filebuff_copy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filebuff_direct_read" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="filebuff_direct_read" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="filebuff_direct_read">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filebuff_mix23_linebuff" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="filebuff_mix23_linebuff" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="filebuff_mix23_linebuff">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filebuff_mix23io" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="filebuff_mix23io" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="filebuff_mix23io">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filebuff_write_bytes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="filebuff_write_bytes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="filebuff_write_bytes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filesys_t_mount" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="filesys_t_mount" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="filesys_t_mount">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filesys_t_statfs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="filesys_t_statfs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="filesys_t_statfs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filesys_t_statvfs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="filesys_t_statvfs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="filesys_t_statvfs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filesys_t_umount" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="filesys_t_umount" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="filesys_t_umount">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="free_and_sbrk" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="free_and_sbrk" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="free_and_sbrk">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="i6d_ucase_cl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="i6d_ucase_cl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="i6d_ucase_cl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="i6d_ucase_sv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="i6d_ucase_sv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="i6d_ucase_sv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="id_echo_cl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="id_echo_cl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="id_echo_cl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="id_echo_sv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="id_echo_sv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="id_echo_sv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idshow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="idshow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="idshow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inet_sockets" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="inet_sockets" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="is_echo_cl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="is_echo_cl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="is_echo_cl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="is_echo_inetd_sv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="is_echo_inetd_sv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="is_echo_inetd_sv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="is_echo_sv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="is_echo_sv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="is_echo_sv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="is_echo_v2_sv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="is_echo_v2_sv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="is_echo_v2_sv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="is_seqnum_cl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="is_seqnum_cl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="is_seqnum_cl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="is_seqnum_sv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="is_seqnum_sv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="is_seqnum_sv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="is_seqnum_v2_cl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="is_seqnum_v2_cl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="is_seqnum_v2_cl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="is_seqnum_v2_sv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="is_seqnum_v2_sv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="is_seqnum_v2_sv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="large_file" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="large_file" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="large_file">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="list_files" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="list_files" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="list_files">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="list_files_readdir_r" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="list_files_readdir_r" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="list_files_readdir_r">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmcat" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="mmcat" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="mmcat">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmcopy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="mmcopy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="mmcopy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multi_descriptors" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="multi_descriptors" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="multi_descriptors">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nftw_dir_tree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="nftw_dir_tree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="nftw_dir_tree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pgsjc_catch_SIGHUP" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pgsjc_catch_SIGHUP" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pgsjc_catch_SIGHUP">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pgsjc_disc_SIGHUP" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pgsjc_disc_SIGHUP" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pgsjc_disc_SIGHUP">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pgsjc_handling_SIGTSTP" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pgsjc_handling_SIGTSTP" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pgsjc_handling_SIGTSTP">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pgsjc_job_mon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pgsjc_job_mon" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pgsjc_job_mon">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pgsjc_orphaned_pgrp_SIGHUP" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pgsjc_orphaned_pgrp_SIGHUP" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pgsjc_orphaned_pgrp_SIGHUP">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pgsjc_t_setsid" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pgsjc_t_setsid" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pgsjc_t_setsid">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_change_case" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_change_case" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_change_case">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_fifo_seqnum_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_fifo_seqnum_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_fifo_seqnum_client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_fifo_seqnum_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_fifo_seqnum_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_fifo_seqnum_server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_mq_notify_sig" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_mq_notify_sig" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_mq_notify_sig">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_mq_notify_sigwaitinfo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_mq_notify_sigwaitinfo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_mq_notify_sigwaitinfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_mq_notify_thread" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_mq_notify_thread" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_mq_notify_thread">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_pipe_ls_wc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_pipe_ls_wc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_pipe_ls_wc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_pipe_sync" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_pipe_sync" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_pipe_sync">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_pmsg_create" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_pmsg_create" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_pmsg_create">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_pmsg_getattr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_pmsg_getattr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_pmsg_getattr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_pmsg_receive" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_pmsg_receive" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_pmsg_receive">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_pmsg_send" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_pmsg_send" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_pmsg_send">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_pmsg_unlink" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_pmsg_unlink" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_pmsg_unlink">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_popen_glob" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_popen_glob" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_popen_glob">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipes_simple_pipe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pipes_simple_pipe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pipes_simple_pipe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="poll_pipes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="poll_pipes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="poll_pipes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proc_bad_longjmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="proc_bad_longjmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="proc_bad_longjmp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proc_display_env" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="proc_display_env" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="proc_display_env">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proc_longjmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="proc_longjmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="proc_longjmp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proc_mem_segments" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="proc_mem_segments" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="proc_mem_segments">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proc_modify_env" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="proc_modify_env" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="proc_modify_env">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proc_necho" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="proc_necho" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="proc_necho">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proc_setenv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="proc_setenv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="proc_setenv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proc_setjmp_vars" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="proc_setjmp_vars" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="proc_setjmp_vars">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proc_t_getenv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="proc_t_getenv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="proc_t_getenv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_acct_on" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_acct_on" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_acct_on">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_acct_v3_view" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_acct_v3_view" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_acct_v3_view">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_acct_view" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_acct_view" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_acct_view">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_child_status" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_child_status" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_child_status">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_closeonexec" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_closeonexec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_closeonexec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_demo_clone" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_demo_clone" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_demo_clone">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_envargs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_envargs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_envargs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_execlp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_execlp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_execlp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_exit_handlers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_exit_handlers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_exit_handlers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_footprint" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_footprint" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_footprint">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_fork_file_sharing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_fork_file_sharing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_fork_file_sharing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_fork_sig_sync" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_fork_sig_sync" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_fork_sig_sync">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_fork_stdio_buf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_fork_stdio_buf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_fork_stdio_buf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_fork_whos_on_first" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_fork_whos_on_first" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_fork_whos_on_first">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_make_zombie" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_make_zombie" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_make_zombie">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_multi_SIGCHLD" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_multi_SIGCHLD" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_multi_SIGCHLD">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_multi_wait" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_multi_wait" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_multi_wait">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_necho" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_necho" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_necho">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_orphan" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_orphan" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_orphan">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_print_wait_status" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_print_wait_status" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_simple_system" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_simple_system" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_simple_system">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_system" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_system" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_system">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_t_clone" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_t_clone" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_t_clone">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_t_execl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_t_execl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_t_execl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_t_execle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_t_execle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_t_execle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_t_execlp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_t_execlp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_t_execlp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_t_execve" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_t_execve" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_t_execve">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_t_fork" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_t_fork" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_t_fork">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_t_system" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_t_system" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_t_system">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_t_vfork" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_t_vfork" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_t_vfork">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procexec_vfork_fd_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procexec_vfork_fd_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procexec_vfork_fd_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procpri_demo_sched_fifo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procpri_demo_sched_fifo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procpri_demo_sched_fifo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procpri_sched_set" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procpri_sched_set" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procpri_sched_set">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procpri_sched_view" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procpri_sched_view" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procpri_sched_view">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procpri_t_sched_getaffinity" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procpri_t_sched_getaffinity" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procpri_t_sched_getaffinity">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procpri_t_sched_setaffinity" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procpri_t_sched_setaffinity" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procpri_t_sched_setaffinity">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procpri_t_setpriority" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procpri_t_setpriority" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procpri_t_setpriority">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procres_rlimit_nproc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procres_rlimit_nproc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procres_rlimit_nproc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procres_rusage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procres_rusage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procres_rusage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="procres_rusage_wait" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="procres_rusage_wait" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="procres_rusage_wait">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="progconc_syscall_speed" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="progconc_syscall_speed" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="progconc_syscall_speed">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="psem_create" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="psem_create" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="psem_create">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="psem_getvalue" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="psem_getvalue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="psem_getvalue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="psem_post" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="psem_post" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="psem_post">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="psem_timedwait" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="psem_timedwait" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="psem_timedwait">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="psem_trywait" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="psem_trywait" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="psem_trywait">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="psem_unlink" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="psem_unlink" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="psem_unlink">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="psem_wait" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="psem_wait" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="psem_wait">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pshm_create" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pshm_create" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pshm_create">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pshm_read" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pshm_read" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pshm_read">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pshm_unlink" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pshm_unlink" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pshm_unlink">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pshm_write" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pshm_write" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pshm_write">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pty_fork" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pty_fork" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pty_master_open" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pty_master_open" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pty_master_open_bsd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="pty_master_open_bsd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="pty_master_open_bsd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rdwrn" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="rdwrn" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="read_line" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="read_line" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="read_line_buf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="read_line_buf" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scm_cred_recv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="scm_cred_recv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="scm_cred_recv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scm_cred_send" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="scm_cred_send" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="scm_cred_send">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scm_rights_recv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="scm_rights_recv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="scm_rights_recv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scm_rights_send" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="scm_rights_send" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="scm_rights_send">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="script" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="script" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="script">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seek_io" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="seek_io" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="seek_io">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select_mq" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="select_mq" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="select_mq">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="self_pipe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="self_pipe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="self_pipe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sendfile" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="sendfile" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_catch_rtsigs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_catch_rtsigs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_catch_rtsigs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_demo_SIGFPE" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_demo_SIGFPE" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_demo_SIGFPE">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_ignore_pending_sig" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_ignore_pending_sig" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_ignore_pending_sig">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_intquit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_intquit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_intquit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_nonreentrant" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_nonreentrant" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_nonreentrant">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_ouch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_ouch" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_ouch">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_sig_receiver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_sig_receiver" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_sig_receiver">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_sig_sender" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_sig_sender" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_sig_sender">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_sig_speed_sigsuspend" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_sig_speed_sigsuspend" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_sig_speed_sigsuspend">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_siginterrupt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_siginterrupt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_siginterrupt">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_sigmask_longjmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_sigmask_longjmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_sigmask_longjmp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_signal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_signal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_signal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_signal_functions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_signal_functions" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_signalfd_sigval" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_signalfd_sigval" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_signalfd_sigval">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_t_kill" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_t_kill" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_t_kill">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_t_sigaltstack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_t_sigaltstack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_t_sigaltstack">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_t_sigqueue" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_t_sigqueue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_t_sigqueue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_t_sigsuspend" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_t_sigsuspend" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_t_sigsuspend">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signals_t_sigwaitinfo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="signals_t_sigwaitinfo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="signals_t_sigwaitinfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="socknames" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="socknames" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="socknames">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svipc_svmsg_demo_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svipc_svmsg_demo_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svipc_svmsg_demo_server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svipc_t_ftok" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svipc_t_ftok" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svipc_t_ftok">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svmsg_svmsg_chqbytes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svmsg_svmsg_chqbytes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svmsg_svmsg_chqbytes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svmsg_svmsg_create" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svmsg_svmsg_create" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svmsg_svmsg_create">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svmsg_svmsg_file_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svmsg_svmsg_file_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svmsg_svmsg_file_client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svmsg_svmsg_file_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svmsg_svmsg_file_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svmsg_svmsg_file_server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svmsg_svmsg_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svmsg_svmsg_info" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svmsg_svmsg_info">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svmsg_svmsg_ls" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svmsg_svmsg_ls" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svmsg_svmsg_ls">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svmsg_svmsg_receive" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svmsg_svmsg_receive" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svmsg_svmsg_receive">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svmsg_svmsg_rm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svmsg_svmsg_rm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svmsg_svmsg_rm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svmsg_svmsg_send" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svmsg_svmsg_send" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svmsg_svmsg_send">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svsem_binary_sems" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svsem_binary_sems" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svsem_event_flags" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svsem_event_flags" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svsem_svsem_bad_init" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svsem_svsem_bad_init" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svsem_svsem_bad_init">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svsem_svsem_create" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svsem_svsem_create" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svsem_svsem_create">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svsem_svsem_demo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svsem_svsem_demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svsem_svsem_demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svsem_svsem_good_init" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svsem_svsem_good_init" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svsem_svsem_good_init">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svsem_svsem_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svsem_svsem_info" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svsem_svsem_info">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svsem_svsem_mon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svsem_svsem_mon" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svsem_svsem_mon">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svsem_svsem_op" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svsem_svsem_op" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svsem_svsem_op">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svsem_svsem_rm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svsem_svsem_rm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svsem_svsem_rm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svsem_svsem_setall" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svsem_svsem_setall" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svsem_svsem_setall">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svshm_svshm_attach" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svshm_svshm_attach" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svshm_svshm_attach">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svshm_svshm_create" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svshm_svshm_create" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svshm_svshm_create">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svshm_svshm_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svshm_svshm_info" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svshm_svshm_info">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svshm_svshm_lock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svshm_svshm_lock" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svshm_svshm_lock">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svshm_svshm_mon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svshm_svshm_mon" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svshm_svshm_mon">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svshm_svshm_rm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svshm_svshm_rm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svshm_svshm_rm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svshm_svshm_unlock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svshm_svshm_unlock" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svshm_svshm_unlock">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svshm_svshm_xfr_reader" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svshm_svshm_xfr_reader" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svshm_svshm_xfr_reader">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="svshm_svshm_xfr_writer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="svshm_svshm_xfr_writer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="svshm_svshm_xfr_writer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sysinfo_procfs_pidmax" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="sysinfo_procfs_pidmax" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="sysinfo_procfs_pidmax">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sysinfo_procfs_user_exe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="sysinfo_procfs_user_exe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="sysinfo_procfs_user_exe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sysinfo_t_uname" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="sysinfo_t_uname" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="sysinfo_t_uname">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="syslim_t_fpathconf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="syslim_t_fpathconf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="syslim_t_fpathconf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="syslim_t_sysconf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="syslim_t_sysconf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="syslim_t_sysconf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_chown" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_chown" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_chown">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_dirbasename" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_dirbasename" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_dirbasename">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_gethostbyname" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_gethostbyname" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_gethostbyname">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_getopt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_getopt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_getopt">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_getservbyname" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_getservbyname" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_getservbyname">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_mmap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_mmap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_mmap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_readv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_readv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_readv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_remap_file_pages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_remap_file_pages" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_remap_file_pages">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_select" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_select" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_select">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_stat" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_stat" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_stat">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_syslog" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_syslog" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_syslog">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_truncate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_truncate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_truncate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_umask" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_umask" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_umask">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_unlink" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_unlink" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_unlink">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_utime" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_utime" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_utime">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_utimes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="t_utimes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="t_utimes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_become_daemon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="test_become_daemon" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="test_become_daemon">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thread_incr_psem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="thread_incr_psem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="thread_incr_psem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_detached_attrib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_detached_attrib" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="threads_detached_attrib">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_one_time_init" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_one_time_init" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="threads_one_time_init">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_prod_condvar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_prod_condvar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="threads_prod_condvar">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_prod_no_condvar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_prod_no_condvar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="threads_prod_no_condvar">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_simple_thread" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_simple_thread" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="threads_simple_thread">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_strerror" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_strerror" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_strerror_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_strerror_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="threads_strerror_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_strerror_tls" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_strerror_tls" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_strerror_tsd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_strerror_tsd" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_thread_cancel" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_thread_cancel" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="threads_thread_cancel">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_thread_cleanup" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_thread_cleanup" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="threads_thread_cleanup">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_thread_incr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_thread_incr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="threads_thread_incr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_thread_incr_mutex" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_thread_incr_mutex" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="threads_thread_incr_mutex">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads_thread_multijoin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="threads_thread_multijoin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="threads_thread_multijoin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="time_curr_time" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="time_curr_time" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="time_process_time" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="time_process_time" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="time_process_time">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="time_show_time" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="time_show_time" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="time_show_time">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="time_strtime" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="time_strtime" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="time_strtime">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="time_t_stime" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="time_t_stime" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="time_t_stime">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timers_demo_timerfd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="timers_demo_timerfd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="timers_demo_timerfd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timers_itimerspec_from_str" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="timers_itimerspec_from_str" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timers_ptmr_null_evp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="timers_ptmr_null_evp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="timers_ptmr_null_evp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timers_ptmr_sigev_signal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="timers_ptmr_sigev_signal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="timers_ptmr_sigev_signal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timers_ptmr_sigev_thread" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="timers_ptmr_sigev_thread" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="timers_ptmr_sigev_thread">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timers_real_timer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="timers_real_timer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="timers_real_timer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timers_t_clock_nanosleep" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="timers_t_clock_nanosleep" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="timers_t_clock_nanosleep">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timers_t_nanosleep" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="timers_t_nanosleep" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="timers_t_nanosleep">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timers_timed_read" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="timers_timed_read" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="timers_timed_read">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tlpl_lib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="tlpl_lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tty_demo_SIGWINCH" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="tty_demo_SIGWINCH" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="tty_demo_SIGWINCH">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tty_new_intr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="tty_new_intr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="tty_new_intr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tty_no_echo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="tty_no_echo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="tty_no_echo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tty_test_tty_functions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="tty_test_tty_functions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="tty_test_tty_functions">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tty_tty_functions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="tty_tty_functions" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tty_ttyname" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="tty_ttyname" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ud_ucase_cl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="ud_ucase_cl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="ud_ucase_cl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ud_ucase_sv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="ud_ucase_sv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="ud_ucase_sv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unbuffer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="unbuffer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="unbuffer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unix_sockets" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="unix_sockets" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="us_abstract_bind" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="us_abstract_bind" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="us_abstract_bind">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="us_xfr_cl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="us_xfr_cl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="us_xfr_cl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="us_xfr_sv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="us_xfr_sv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="us_xfr_sv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="us_xfr_v2_cl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="us_xfr_v2_cl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="us_xfr_v2_cl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="us_xfr_v2_sv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="us_xfr_v2_sv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="us_xfr_v2_sv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="users_groups_ugid_functions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="users_groups_ugid_functions" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="utmpx_login" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="utmpx_login" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="utmpx_login">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="version" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="version" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="version">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="view_lastlog" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="view_lastlog" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="view_lastlog">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="view_symlink" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="view_symlink" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="view_symlink">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vmem_memlock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="vmem_memlock" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="vmem_memlock">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vmem_t_mprotect" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="vmem_t_mprotect" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="vmem_t_mprotect">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wuclient" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="wuclient" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="wuclient">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wuserver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="wuserver" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="wuserver">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xattr_t_setxattr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="xattr_t_setxattr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="xattr_t_setxattr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xattr_xattr_view" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tlpl" TARGET_NAME="xattr_xattr_view" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tlpl" RUN_TARGET_NAME="xattr_xattr_view">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.atomic_append" />
+      <item itemvalue="CMake Application.bad_exclusive_open" />
+      <item itemvalue="CMake Application.copy" />
+      <item itemvalue="CMake Application.large_file" />
+      <item itemvalue="CMake Application.multi_descriptors" />
+      <item itemvalue="CMake Application.seek_io" />
+      <item itemvalue="CMake Application.t_readv" />
+      <item itemvalue="CMake Application.t_truncate" />
+      <item itemvalue="CMake Application.chiflag" />
+      <item itemvalue="CMake Application.t_chown" />
+      <item itemvalue="CMake Application.t_stat" />
+      <item itemvalue="CMake Application.t_umask" />
+      <item itemvalue="CMake Application.t_utime" />
+      <item itemvalue="CMake Application.t_utimes" />
+      <item itemvalue="CMake Application.filesys_t_mount" />
+      <item itemvalue="CMake Application.filesys_t_statfs" />
+      <item itemvalue="CMake Application.filesys_t_statvfs" />
+      <item itemvalue="CMake Application.filesys_t_umount" />
+      <item itemvalue="CMake Application.t_getopt" />
+      <item itemvalue="CMake Application.demo_inotify" />
+      <item itemvalue="CMake Application.dnotify" />
+      <item itemvalue="CMake Application.dump_utmpx" />
+      <item itemvalue="CMake Application.utmpx_login" />
+      <item itemvalue="CMake Application.view_lastlog" />
+      <item itemvalue="CMake Application.free_and_sbrk" />
+      <item itemvalue="CMake Application.anon_mmap" />
+      <item itemvalue="CMake Application.mmcat" />
+      <item itemvalue="CMake Application.mmcopy" />
+      <item itemvalue="CMake Application.t_mmap" />
+      <item itemvalue="CMake Application.t_remap_file_pages" />
+      <item itemvalue="CMake Application.pgsjc_catch_SIGHUP" />
+      <item itemvalue="CMake Application.pgsjc_disc_SIGHUP" />
+      <item itemvalue="CMake Application.pgsjc_handling_SIGTSTP" />
+      <item itemvalue="CMake Application.pgsjc_job_mon" />
+      <item itemvalue="CMake Application.pgsjc_orphaned_pgrp_SIGHUP" />
+      <item itemvalue="CMake Application.pgsjc_t_setsid" />
+      <item itemvalue="CMake Application.pipes_change_case" />
+      <item itemvalue="CMake Application.pipes_fifo_seqnum_client" />
+      <item itemvalue="CMake Application.pipes_fifo_seqnum_server" />
+      <item itemvalue="CMake Application.pipes_pipe_ls_wc" />
+      <item itemvalue="CMake Application.pipes_pipe_sync" />
+      <item itemvalue="CMake Application.pipes_popen_glob" />
+      <item itemvalue="CMake Application.pipes_simple_pipe" />
+      <item itemvalue="CMake Application.pipes_mq_notify_sig" />
+      <item itemvalue="CMake Application.pipes_mq_notify_sigwaitinfo" />
+      <item itemvalue="CMake Application.pipes_mq_notify_thread" />
+      <item itemvalue="CMake Application.pipes_pmsg_create" />
+      <item itemvalue="CMake Application.pipes_pmsg_getattr" />
+      <item itemvalue="CMake Application.pipes_pmsg_receive" />
+      <item itemvalue="CMake Application.pipes_pmsg_send" />
+      <item itemvalue="CMake Application.pipes_pmsg_unlink" />
+      <item itemvalue="CMake Application.proc_bad_longjmp" />
+      <item itemvalue="CMake Application.proc_display_env" />
+      <item itemvalue="CMake Application.proc_longjmp" />
+      <item itemvalue="CMake Application.proc_mem_segments" />
+      <item itemvalue="CMake Application.proc_modify_env" />
+      <item itemvalue="CMake Application.proc_necho" />
+      <item itemvalue="CMake Application.proc_setenv" />
+      <item itemvalue="CMake Application.proc_setjmp_vars" />
+      <item itemvalue="CMake Application.proc_t_getenv" />
+      <item itemvalue="CMake Application.idshow" />
+      <item itemvalue="CMake Application.procexec_acct_on" />
+      <item itemvalue="CMake Application.procexec_acct_v3_view" />
+      <item itemvalue="CMake Application.procexec_acct_view" />
+      <item itemvalue="CMake Application.procexec_child_status" />
+      <item itemvalue="CMake Application.procexec_closeonexec" />
+      <item itemvalue="CMake Application.procexec_demo_clone" />
+      <item itemvalue="CMake Application.procexec_envargs" />
+      <item itemvalue="CMake Application.procexec_execlp" />
+      <item itemvalue="CMake Application.procexec_exit_handlers" />
+      <item itemvalue="CMake Application.procexec_footprint" />
+      <item itemvalue="CMake Application.procexec_fork_file_sharing" />
+      <item itemvalue="CMake Application.procexec_fork_sig_sync" />
+      <item itemvalue="CMake Application.procexec_fork_stdio_buf" />
+      <item itemvalue="CMake Application.procexec_fork_whos_on_first" />
+      <item itemvalue="CMake Application.procexec_make_zombie" />
+      <item itemvalue="CMake Application.procexec_multi_SIGCHLD" />
+      <item itemvalue="CMake Application.procexec_multi_wait" />
+      <item itemvalue="CMake Application.procexec_necho" />
+      <item itemvalue="CMake Application.procexec_orphan" />
+      <item itemvalue="CMake Application.procexec_simple_system" />
+      <item itemvalue="CMake Application.procexec_system" />
+      <item itemvalue="CMake Application.pty_fork" />
+      <item itemvalue="CMake Application.pty_master_open" />
+      <item itemvalue="CMake Application.procexec_t_clone" />
+      <item itemvalue="CMake Application.procexec_t_execl" />
+      <item itemvalue="CMake Application.procexec_t_execle" />
+      <item itemvalue="CMake Application.procexec_t_execlp" />
+      <item itemvalue="CMake Application.procexec_t_execve" />
+      <item itemvalue="CMake Application.procexec_t_fork" />
+      <item itemvalue="CMake Application.procexec_t_system" />
+      <item itemvalue="CMake Application.procexec_t_vfork" />
+      <item itemvalue="CMake Application.procexec_vfork_fd_test" />
+      <item itemvalue="CMake Application.procpri_demo_sched_fifo" />
+      <item itemvalue="CMake Application.procpri_sched_set" />
+      <item itemvalue="CMake Application.procpri_sched_view" />
+      <item itemvalue="CMake Application.procpri_t_sched_getaffinity" />
+      <item itemvalue="CMake Application.procpri_t_sched_setaffinity" />
+      <item itemvalue="CMake Application.procpri_t_setpriority" />
+      <item itemvalue="CMake Application.procres_rlimit_nproc" />
+      <item itemvalue="CMake Application.procres_rusage" />
+      <item itemvalue="CMake Application.procres_rusage_wait" />
+      <item itemvalue="CMake Application.progconc_syscall_speed" />
+      <item itemvalue="CMake Application.psem_create" />
+      <item itemvalue="CMake Application.psem_getvalue" />
+      <item itemvalue="CMake Application.psem_post" />
+      <item itemvalue="CMake Application.psem_timedwait" />
+      <item itemvalue="CMake Application.psem_trywait" />
+      <item itemvalue="CMake Application.psem_unlink" />
+      <item itemvalue="CMake Application.psem_wait" />
+      <item itemvalue="CMake Application.thread_incr_psem" />
+      <item itemvalue="CMake Application.pshm_create" />
+      <item itemvalue="CMake Application.pshm_read" />
+      <item itemvalue="CMake Application.pshm_unlink" />
+      <item itemvalue="CMake Application.pshm_write" />
+      <item itemvalue="CMake Application.pty_master_open_bsd" />
+      <item itemvalue="CMake Application.script" />
+      <item itemvalue="CMake Application.unbuffer" />
+      <item itemvalue="CMake Application.signals_catch_rtsigs" />
+      <item itemvalue="CMake Application.signals_demo_SIGFPE" />
+      <item itemvalue="CMake Application.signals_ignore_pending_sig" />
+      <item itemvalue="CMake Application.signals_intquit" />
+      <item itemvalue="CMake Application.signals_nonreentrant" />
+      <item itemvalue="CMake Application.signals_ouch" />
+      <item itemvalue="CMake Application.signals_sig_receiver" />
+      <item itemvalue="CMake Application.signals_sig_sender" />
+      <item itemvalue="CMake Application.signals_sig_speed_sigsuspend" />
+      <item itemvalue="CMake Application.signals_siginterrupt" />
+      <item itemvalue="CMake Application.signals_sigmask_longjmp" />
+      <item itemvalue="CMake Application.signals_signal" />
+      <item itemvalue="CMake Application.signals_signalfd_sigval" />
+      <item itemvalue="CMake Application.signals_t_kill" />
+      <item itemvalue="CMake Application.signals_t_sigaltstack" />
+      <item itemvalue="CMake Application.signals_t_sigqueue" />
+      <item itemvalue="CMake Application.signals_t_sigsuspend" />
+      <item itemvalue="CMake Application.signals_t_sigwaitinfo" />
+      <item itemvalue="CMake Application.i6d_ucase_cl" />
+      <item itemvalue="CMake Application.i6d_ucase_sv" />
+      <item itemvalue="CMake Application.id_echo_cl" />
+      <item itemvalue="CMake Application.id_echo_sv" />
+      <item itemvalue="CMake Application.is_echo_cl" />
+      <item itemvalue="CMake Application.is_echo_inetd_sv" />
+      <item itemvalue="CMake Application.is_echo_sv" />
+      <item itemvalue="CMake Application.is_echo_v2_sv" />
+      <item itemvalue="CMake Application.is_seqnum_cl" />
+      <item itemvalue="CMake Application.is_seqnum_sv" />
+      <item itemvalue="CMake Application.is_seqnum_v2_cl" />
+      <item itemvalue="CMake Application.is_seqnum_v2_sv" />
+      <item itemvalue="CMake Application.scm_cred_recv" />
+      <item itemvalue="CMake Application.scm_cred_send" />
+      <item itemvalue="CMake Application.scm_rights_recv" />
+      <item itemvalue="CMake Application.scm_rights_send" />
+      <item itemvalue="CMake Application.socknames" />
+      <item itemvalue="CMake Application.t_gethostbyname" />
+      <item itemvalue="CMake Application.t_getservbyname" />
+      <item itemvalue="CMake Application.ud_ucase_cl" />
+      <item itemvalue="CMake Application.ud_ucase_sv" />
+      <item itemvalue="CMake Application.us_abstract_bind" />
+      <item itemvalue="CMake Application.us_xfr_cl" />
+      <item itemvalue="CMake Application.us_xfr_sv" />
+      <item itemvalue="CMake Application.us_xfr_v2_cl" />
+      <item itemvalue="CMake Application.us_xfr_v2_sv" />
+      <item itemvalue="CMake Application.svipc_svmsg_demo_server" />
+      <item itemvalue="CMake Application.svipc_t_ftok" />
+      <item itemvalue="CMake Application.svmsg_svmsg_chqbytes" />
+      <item itemvalue="CMake Application.svmsg_svmsg_create" />
+      <item itemvalue="CMake Application.svmsg_svmsg_file_client" />
+      <item itemvalue="CMake Application.svmsg_svmsg_file_server" />
+      <item itemvalue="CMake Application.svmsg_svmsg_info" />
+      <item itemvalue="CMake Application.svmsg_svmsg_ls" />
+      <item itemvalue="CMake Application.svmsg_svmsg_receive" />
+      <item itemvalue="CMake Application.svmsg_svmsg_rm" />
+      <item itemvalue="CMake Application.svmsg_svmsg_send" />
+      <item itemvalue="CMake Application.svsem_svsem_bad_init" />
+      <item itemvalue="CMake Application.svsem_svsem_create" />
+      <item itemvalue="CMake Application.svsem_svsem_demo" />
+      <item itemvalue="CMake Application.svsem_svsem_good_init" />
+      <item itemvalue="CMake Application.svsem_svsem_info" />
+      <item itemvalue="CMake Application.svsem_svsem_mon" />
+      <item itemvalue="CMake Application.svsem_svsem_op" />
+      <item itemvalue="CMake Application.svsem_svsem_rm" />
+      <item itemvalue="CMake Application.svsem_svsem_setall" />
+      <item itemvalue="CMake Application.svshm_svshm_attach" />
+      <item itemvalue="CMake Application.svshm_svshm_create" />
+      <item itemvalue="CMake Application.svshm_svshm_info" />
+      <item itemvalue="CMake Application.svshm_svshm_lock" />
+      <item itemvalue="CMake Application.svshm_svshm_mon" />
+      <item itemvalue="CMake Application.svshm_svshm_rm" />
+      <item itemvalue="CMake Application.svshm_svshm_unlock" />
+      <item itemvalue="CMake Application.svshm_svshm_xfr_reader" />
+      <item itemvalue="CMake Application.svshm_svshm_xfr_writer" />
+      <item itemvalue="CMake Application.sysinfo_procfs_pidmax" />
+      <item itemvalue="CMake Application.sysinfo_procfs_user_exe" />
+      <item itemvalue="CMake Application.sysinfo_t_uname" />
+      <item itemvalue="CMake Application.syslim_t_fpathconf" />
+      <item itemvalue="CMake Application.syslim_t_sysconf" />
+      <item itemvalue="CMake Application.threads_detached_attrib" />
+      <item itemvalue="CMake Application.threads_one_time_init" />
+      <item itemvalue="CMake Application.threads_prod_condvar" />
+      <item itemvalue="CMake Application.threads_prod_no_condvar" />
+      <item itemvalue="CMake Application.threads_simple_thread" />
+      <item itemvalue="CMake Application.threads_strerror_test" />
+      <item itemvalue="CMake Application.threads_thread_cancel" />
+      <item itemvalue="CMake Application.threads_thread_cleanup" />
+      <item itemvalue="CMake Application.threads_thread_incr" />
+      <item itemvalue="CMake Application.threads_thread_incr_mutex" />
+      <item itemvalue="CMake Application.threads_thread_multijoin" />
+      <item itemvalue="CMake Application.time_process_time" />
+      <item itemvalue="CMake Application.time_show_time" />
+      <item itemvalue="CMake Application.time_strtime" />
+      <item itemvalue="CMake Application.time_t_stime" />
+      <item itemvalue="CMake Application.timers_demo_timerfd" />
+      <item itemvalue="CMake Application.timers_ptmr_null_evp" />
+      <item itemvalue="CMake Application.timers_ptmr_sigev_signal" />
+      <item itemvalue="CMake Application.timers_ptmr_sigev_thread" />
+      <item itemvalue="CMake Application.timers_real_timer" />
+      <item itemvalue="CMake Application.timers_t_clock_nanosleep" />
+      <item itemvalue="CMake Application.timers_t_nanosleep" />
+      <item itemvalue="CMake Application.timers_timed_read" />
+      <item itemvalue="CMake Application.tty_demo_SIGWINCH" />
+      <item itemvalue="CMake Application.tty_new_intr" />
+      <item itemvalue="CMake Application.tty_no_echo" />
+      <item itemvalue="CMake Application.tty_test_tty_functions" />
+      <item itemvalue="CMake Application.vmem_memlock" />
+      <item itemvalue="CMake Application.vmem_t_mprotect" />
+      <item itemvalue="CMake Application.xattr_t_setxattr" />
+      <item itemvalue="CMake Application.xattr_xattr_view" />
+      <item itemvalue="CMake Application.version" />
+      <item itemvalue="CMake Application.wuclient" />
+      <item itemvalue="CMake Application.wuserver" />
+      <item itemvalue="CMake Application.become_daemon" />
+      <item itemvalue="CMake Application.file_perms" />
+      <item itemvalue="CMake Application.inet_sockets" />
+      <item itemvalue="CMake Application.main" />
+      <item itemvalue="CMake Application.procexec_print_wait_status" />
+      <item itemvalue="CMake Application.rdwrn" />
+      <item itemvalue="CMake Application.read_line" />
+      <item itemvalue="CMake Application.read_line_buf" />
+      <item itemvalue="CMake Application.sendfile" />
+      <item itemvalue="CMake Application.signals_signal_functions" />
+      <item itemvalue="CMake Application.svsem_binary_sems" />
+      <item itemvalue="CMake Application.svsem_event_flags" />
+      <item itemvalue="CMake Application.threads_strerror" />
+      <item itemvalue="CMake Application.threads_strerror_tls" />
+      <item itemvalue="CMake Application.threads_strerror_tsd" />
+      <item itemvalue="CMake Application.time_curr_time" />
+      <item itemvalue="CMake Application.timers_itimerspec_from_str" />
+      <item itemvalue="CMake Application.tlpl_lib" />
+      <item itemvalue="CMake Application.tty_tty_functions" />
+      <item itemvalue="CMake Application.tty_ttyname" />
+      <item itemvalue="CMake Application.unix_sockets" />
+      <item itemvalue="CMake Application.users_groups_ugid_functions" />
+      <item itemvalue="CMake Application.acl_update" />
+      <item itemvalue="CMake Application.acl_view" />
+      <item itemvalue="CMake Application.demo_sigio" />
+      <item itemvalue="CMake Application.epoll_input" />
+      <item itemvalue="CMake Application.poll_pipes" />
+      <item itemvalue="CMake Application.select_mq" />
+      <item itemvalue="CMake Application.self_pipe" />
+      <item itemvalue="CMake Application.t_select" />
+      <item itemvalue="CMake Application.check_password_caps" />
+      <item itemvalue="CMake Application.daemon_SIGHUP" />
+      <item itemvalue="CMake Application.t_syslog" />
+      <item itemvalue="CMake Application.test_become_daemon" />
+      <item itemvalue="CMake Application.bad_symlink" />
+      <item itemvalue="CMake Application.file_type_stats" />
+      <item itemvalue="CMake Application.list_files" />
+      <item itemvalue="CMake Application.list_files_readdir_r" />
+      <item itemvalue="CMake Application.nftw_dir_tree" />
+      <item itemvalue="CMake Application.t_dirbasename" />
+      <item itemvalue="CMake Application.t_unlink" />
+      <item itemvalue="CMake Application.view_symlink" />
+      <item itemvalue="CMake Application.filebuff_copy" />
+      <item itemvalue="CMake Application.filebuff_direct_read" />
+      <item itemvalue="CMake Application.filebuff_mix23_linebuff" />
+      <item itemvalue="CMake Application.filebuff_mix23io" />
+      <item itemvalue="CMake Application.filebuff_write_bytes" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cd08547-8a8f-4b1b-a7fc-fc92fe7e6a8d" name="Default Changelist" comment="" />
+      <created>1564750101639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564750101639</updated>
+      <workItem from="1564750103144" duration="2991000" />
+      <workItem from="1564792136209" duration="9764000" />
+      <workItem from="1564803091829" duration="1992000" />
+      <workItem from="1564805372826" duration="4588000" />
+      <workItem from="1564815068346" duration="9631000" />
+      <workItem from="1564840906638" duration="5000" />
+      <workItem from="1564843528250" duration="6453000" />
+      <workItem from="1564876809000" duration="3688000" />
+      <workItem from="1564883249894" duration="7425000" />
+      <workItem from="1564923455056" duration="32000" />
+      <workItem from="1564940336749" duration="1605000" />
+      <workItem from="1564968716108" duration="1221000" />
+      <workItem from="1565009089011" duration="1907000" />
+      <workItem from="1565070451614" duration="2185000" />
+      <workItem from="1565252218718" duration="741000" />
+      <workItem from="1565309944380" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/lib/ugid_functions.c</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/procexec/lib/system.c</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/procres/lib/print_rlimit.c</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/zmq_cpp/hwserver.cpp</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/zmq_cpp/interrupt.cpp</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/zmq_cpp/zhelpers.h</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

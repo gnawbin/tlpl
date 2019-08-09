@@ -1,0 +1,6 @@
+file(GLOB cap_SOURCES *.c)
+foreach(filename ${cap_SOURCES})
+    get_filename_component(name ${filename} NAME_WE)
+    add_executable(${name} ${filename})
+    target_link_libraries(${name} tlpl_lib pthread  cap crypt)
+endforeach()

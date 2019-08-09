@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libthreads_strerror.so -o libthreads_strerror.so CMakeFiles/threads_strerror.dir/src/threads/lib/strerror.c.o 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/users_groups_t_getpwnam_r.dir/t_getpwnam_r.c.o  -o users_groups_t_getpwnam_r -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread ../../libusers_groups_ugid_functions.so -lcrypt 

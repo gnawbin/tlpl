@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libprocexec_simple_system.so -o libprocexec_simple_system.so CMakeFiles/procexec_simple_system.dir/src/procexec/lib/simple_system.c.o 

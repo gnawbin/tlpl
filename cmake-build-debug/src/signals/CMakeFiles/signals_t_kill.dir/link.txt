@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/signals_t_kill.dir/t_kill.c.o  -o signals_t_kill -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libsignals_signal_functions.so ../../libsignals_signal.so ../../libsignals_siginterrupt.so -lpthread ../../libtlpl_lib.so -lrt -lcrypt 

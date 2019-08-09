@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libsendfile.so -o libsendfile.so CMakeFiles/sendfile.dir/src/sockets/sendfile.c.o 

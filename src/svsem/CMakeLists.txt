@@ -1,0 +1,6 @@
+file(GLOB svsem_SOURCES *.c)
+foreach(filename ${svsem_SOURCES})
+    get_filename_component(name ${filename} NAME_WE)
+    add_executable(svsem_${name}  ${filename})
+    target_link_libraries(svsem_${name} pthread tlpl_lib rt)
+endforeach ()

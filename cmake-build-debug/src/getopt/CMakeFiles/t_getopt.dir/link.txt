@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/t_getopt.dir/t_getopt.c.o  -o t_getopt -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread 

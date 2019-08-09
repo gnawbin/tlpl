@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/t_utimes.dir/t_utimes.c.o  -o t_utimes -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread ../../libfile_perms.so 

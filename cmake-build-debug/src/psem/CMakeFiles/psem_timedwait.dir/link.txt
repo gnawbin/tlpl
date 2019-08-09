@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/psem_timedwait.dir/psem_timedwait.c.o  -o psem_timedwait -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug -lpthread ../../libtlpl_lib.so -lrt -lcrypt 

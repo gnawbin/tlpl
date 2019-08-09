@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libc_kvmsg.so -o libc_kvmsg.so CMakeFiles/c_kvmsg.dir/src/zeromq_c_version/lib/kvmsg.c.o 

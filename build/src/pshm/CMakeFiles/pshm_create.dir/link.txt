@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/pshm_create.dir/pshm_create.c.o  -o pshm_create -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build -lpthread ../../libtlpl_lib.so -lrt -lcrypt 

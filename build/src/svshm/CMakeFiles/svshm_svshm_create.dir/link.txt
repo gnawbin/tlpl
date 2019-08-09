@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/svshm_svshm_create.dir/svshm_create.c.o  -o svshm_svshm_create -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build -lpthread ../../libtlpl_lib.so -lrt 

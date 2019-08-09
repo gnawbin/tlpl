@@ -1,0 +1,6 @@
+file(GLOB svmsg_SOURCES *.c)
+foreach(filename ${svmsg_SOURCES})
+    get_filename_component(name ${filename} NAME_WE)
+    add_executable(svmsg_${name}  ${filename})
+    target_link_libraries(svmsg_${name} pthread tlpl_lib rt)
+endforeach ()

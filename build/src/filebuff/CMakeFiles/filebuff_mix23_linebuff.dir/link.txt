@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/filebuff_mix23_linebuff.dir/mix23_linebuff.c.o  -o filebuff_mix23_linebuff -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread 

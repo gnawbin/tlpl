@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libmdcliapi2.so -o libmdcliapi2.so CMakeFiles/mdcliapi2.dir/src/zeromq_c_version/lib/mdcliapi2.c.o 

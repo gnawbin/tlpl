@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/pgsjc_catch_SIGHUP.dir/catch_SIGHUP.c.o  -o pgsjc_catch_SIGHUP -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread 

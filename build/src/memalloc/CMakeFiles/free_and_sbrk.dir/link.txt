@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/free_and_sbrk.dir/free_and_sbrk.c.o  -o free_and_sbrk -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread 

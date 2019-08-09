@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/t_mmap.dir/t_mmap.c.o  -o t_mmap -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread 

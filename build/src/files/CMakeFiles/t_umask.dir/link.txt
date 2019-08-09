@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/t_umask.dir/t_umask.c.o  -o t_umask -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread ../../libfile_perms.so 

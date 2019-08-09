@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libread_line_buf.so -o libread_line_buf.so CMakeFiles/read_line_buf.dir/src/sockets/read_line_buf.c.o 

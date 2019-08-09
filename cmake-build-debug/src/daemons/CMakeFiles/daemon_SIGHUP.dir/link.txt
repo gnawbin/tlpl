@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/daemon_SIGHUP.dir/daemon_SIGHUP.c.o  -o daemon_SIGHUP -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libtlpl_lib.so -lpthread ../../libbecome_daemon.so 

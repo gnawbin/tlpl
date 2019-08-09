@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/svsem_svsem_bad_init.dir/svsem_bad_init.c.o  -o svsem_svsem_bad_init -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug -lpthread ../../libtlpl_lib.so -lrt 

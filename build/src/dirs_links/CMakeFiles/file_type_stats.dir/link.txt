@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/file_type_stats.dir/file_type_stats.c.o  -o file_type_stats -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libtlpl_lib.so -lpthread 

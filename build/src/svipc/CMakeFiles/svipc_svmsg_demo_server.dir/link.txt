@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/svipc_svmsg_demo_server.dir/svmsg_demo_server.c.o  -o svipc_svmsg_demo_server -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build -lpthread ../../libtlpl_lib.so -lrt 

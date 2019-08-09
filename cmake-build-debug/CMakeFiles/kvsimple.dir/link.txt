@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libkvsimple.so -o libkvsimple.so CMakeFiles/kvsimple.dir/src/zeromq_c_version/lib/kvsimple.c.o 

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libprocexec_print_wait_status.so -o libprocexec_print_wait_status.so CMakeFiles/procexec_print_wait_status.dir/src/procexec/lib/print_wait_status.c.o 

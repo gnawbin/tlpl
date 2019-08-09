@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/psem_wait.dir/psem_wait.c.o  -o psem_wait -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug -lpthread ../../libtlpl_lib.so -lrt -lcrypt 

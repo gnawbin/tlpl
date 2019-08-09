@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/pshm_write.dir/pshm_write.c.o  -o pshm_write -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug -lpthread ../../libtlpl_lib.so -lrt -lcrypt 

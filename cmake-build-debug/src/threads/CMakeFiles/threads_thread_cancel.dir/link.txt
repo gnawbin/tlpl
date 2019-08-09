@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/threads_thread_cancel.dir/thread_cancel.c.o  -o threads_thread_cancel -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug ../../libthreads_strerror.so -lpthread ../../libtlpl_lib.so 

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libpty_master_open_bsd.so -o libpty_master_open_bsd.so CMakeFiles/pty_master_open_bsd.dir/src/pty/lib/pty_master_open_bsd.c.o 

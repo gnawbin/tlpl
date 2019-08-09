@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/svshm_svshm_xfr_writer.dir/svshm_xfr_writer.c.o  -o svshm_svshm_xfr_writer -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/cmake-build-debug -lpthread ../../libtlpl_lib.so -lrt 

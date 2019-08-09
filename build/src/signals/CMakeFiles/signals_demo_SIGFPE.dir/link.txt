@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/signals_demo_SIGFPE.dir/demo_SIGFPE.c.o  -o signals_demo_SIGFPE -Wl,-rpath,/media/wangbin/36005E93005E59C7/tlpl/build ../../libsignals_signal_functions.so ../../libsignals_signal.so ../../libsignals_siginterrupt.so -lpthread ../../libtlpl_lib.so -lrt -lcrypt 

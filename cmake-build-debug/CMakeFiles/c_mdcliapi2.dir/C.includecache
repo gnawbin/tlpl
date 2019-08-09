@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/wangbin/36005E93005E59C7/tlpl/src/zeromq_c_version/lib/mdcliapi2.c
+mdcliapi2.h
+/media/wangbin/36005E93005E59C7/tlpl/src/zeromq_c_version/lib/mdcliapi2.h
+
+/media/wangbin/36005E93005E59C7/tlpl/src/zeromq_c_version/lib/mdcliapi2.h
+czmq.h
+/media/wangbin/36005E93005E59C7/tlpl/src/zeromq_c_version/lib/czmq.h
+mdp.h
+/media/wangbin/36005E93005E59C7/tlpl/src/zeromq_c_version/lib/mdp.h
+
+/media/wangbin/36005E93005E59C7/tlpl/src/zeromq_c_version/lib/mdp.h
+
